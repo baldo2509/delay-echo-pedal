@@ -1,6 +1,6 @@
 # Delay/Echo Pedal
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 
 This is a collection of documentation, schematics and CAD files for a DIY guitar
 delay/echo effects pedal that uses a [PT2399 digital echo processor IC](https://datasheet.lcsc.com/lcsc/1808031633_PTC-Princeton-Tech-PT2399-SN_C126407.pdf) as the main
@@ -25,4 +25,4 @@ Both schematics are not patented and freely available.
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
