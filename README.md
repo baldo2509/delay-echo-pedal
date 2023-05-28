@@ -2,6 +2,10 @@
 
 ![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 
+<img src="/Images/enclosure/dist_front.jpg" alt="Front of the pedal's enclosure; There are three knobs, labeled 'DELAY', 'FDBK' and 'MIX'." height="700">
+<img src="/Images/perfboard/dist_board_finished.jpg" alt="The 'guts' of the pedal: the circuit board, with wires going off to external components, mounted to the inside of
+the plastic enclosure, which has been covered by aluminum tape" height="700">
+
 This is a collection of documentation, schematics and CAD files for a DIY guitar
 delay/echo effects pedal that uses a [PT2399 digital echo processor IC](https://datasheet.lcsc.com/lcsc/1808031633_PTC-Princeton-Tech-PT2399-SN_C126407.pdf) as the main
 delay line.
